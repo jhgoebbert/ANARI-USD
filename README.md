@@ -1,6 +1,6 @@
 ## USD device for ANARI #
 
-Hi
+HiHi
 
 Device which generates USD output from intercepted ANARI API calls to, optionally with Omniverse support. 
 
